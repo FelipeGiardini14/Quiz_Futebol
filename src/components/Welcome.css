@@ -1,0 +1,46 @@
+#welcome {
+    text-align: center;
+    max-width: 1250px;
+    width: 600px;
+}
+
+#welcome h2 {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+#click {
+    font-size: 1rem;
+    padding: 5px;
+}
+
+#regras {
+    font-size: 1.25rem;
+    padding: 5px;
+    background: linear-gradient(
+        to right, rgba(0, 0, 0, 0), black, rgba(0, 0, 0, 0)
+      );
+    border-radius: 1rem;
+}
+
+.cor_p1 {
+    color: rgb(0, 250, 50);
+    font-weight: bold;
+}
+.cor_p2 {
+    color: rgb(250, 50, 0);
+    font-weight: bold;
+}
+
+.leiaMaisButton {
+    font-size: 1rem;
+    cursor: pointer;
+    padding: .4rem 1rem;
+    background: none;
+    border-radius: 3rem;
+    border: none;
+    margin-bottom: 1rem;
+}
+.leiaMaisButton:hover {
+    background: none;
+    text-decoration: underline;
+  }

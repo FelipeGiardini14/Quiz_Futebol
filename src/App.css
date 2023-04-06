@@ -1,0 +1,15 @@
+.App{
+    padding-top: 225px;
+    padding-left: 300px;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.App h1{
+    margin-bottom: 1cm;
+    text-align: center;
+    max-width: 1250px;
+    font-size: 2.25rem;
+}

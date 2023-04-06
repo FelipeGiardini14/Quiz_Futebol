@@ -1,0 +1,27 @@
+.option {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.option:hover {
+    opacity: 1;
+}
+
+.option p {
+    color: black;
+}
+
+.standard {
+    background-color: white;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+
+.correct {
+    background-color: rgb(0, 250, 50);;
+    font-weight: bold;
+}
+
+.wrong {
+    opacity: 0.5;
+}
